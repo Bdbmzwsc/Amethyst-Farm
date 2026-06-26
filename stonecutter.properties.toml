@@ -1,0 +1,62 @@
+mod.id = "amethystfarm"
+mod.name = "Amethyst Farm Bot"
+mod.group = "com.zsj"
+mod.version = "1.0.3"
+
+deps.fabric_loader = "0.16.9"
+loomx.loom_version = "1.14-SNAPSHOT"
+
+["1.21.1"]
+mod.mc_compat = "1.21.1"
+deps.fabric_api = "0.116.12+1.21.1"
+deps.carpet_key = "1.21-1.4.147+v240613"
+
+["1.21.2"]
+mod.mc_compat = "1.21.2"
+deps.fabric_api = "0.106.1+1.21.2"
+deps.carpet_key = "1.21.2-1.4.158+v241022"
+
+["1.21.3"]
+mod.mc_compat = "1.21.3"
+deps.fabric_api = "0.114.1+1.21.3"
+deps.carpet_key = "1.21.2-1.4.158+v241022"
+
+["1.21.4"]
+mod.mc_compat = "1.21.4"
+deps.fabric_api = "0.119.4+1.21.4"
+deps.carpet_key = "1.21.4-1.4.161+v241203"
+
+["1.21.5"]
+mod.mc_compat = "1.21.5"
+deps.fabric_api = "0.128.2+1.21.5"
+deps.carpet_key = "1.21.5-1.4.169+v250325"
+
+["1.21.6"]
+mod.mc_compat = "1.21.6"
+deps.fabric_api = "0.128.2+1.21.6"
+deps.carpet_key = "1.21.6-1.4.176+v250617"
+
+["1.21.7"]
+mod.mc_compat = "1.21.7"
+deps.fabric_api = "0.129.0+1.21.7"
+deps.carpet_key = "1.21.7-1.4.177+v250630"
+
+["1.21.8"]
+mod.mc_compat = "1.21.8"
+deps.fabric_api = "0.136.1+1.21.8"
+deps.carpet_key = "1.21.7-1.4.177+v250630"
+
+["1.21.9"]
+mod.mc_compat = "1.21.9"
+deps.fabric_api = "0.134.1+1.21.9"
+deps.carpet_key = "1.21.9-1.4.185+v250930"
+
+["1.21.10"]
+mod.mc_compat = "1.21.10"
+deps.fabric_api = "0.138.4+1.21.10"
+deps.carpet_key = "1.21.10-1.4.188+v251016"
+
+["1.21.11"]
+mod.mc_compat = "1.21.11"
+deps.fabric_api = "0.141.4+1.21.11"
+deps.carpet_key = "1.21.11-1.4.194+v260107"
