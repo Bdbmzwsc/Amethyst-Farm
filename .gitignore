@@ -1,0 +1,24 @@
+# Gradle / Loom
+.gradle/
+build/
+versions/*/.gradle/
+versions/*/build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+bin/
+out/
+
+# 系统 / 临时
+*.log
+tmp*.txt
+.DS_Store
+Thumbs.db
+
+# 本地编译产物
+carpet/**/*.class
