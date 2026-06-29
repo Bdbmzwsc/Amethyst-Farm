@@ -3,7 +3,8 @@
   "package": "com.zsj.amethystfarm.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "EntityPlayerMPFakeMixin"
+    "EntityPlayerMPFakeMixin",
+    "RegistrySyncManagerMixin"
   ],
   "injectors": {
     "defaultRequire": 1
